@@ -7,7 +7,7 @@ faire des fonctions qui trient une liste
 mesurer le temps que mettent ces fonctions  
 afficher des graphiques pour comparer les vitesses  
 
-## Les fonctions faites
+## Les fonctions 
 
 `recherche_lineaire` : cherche un élément en regardant tout.  
  `recherche_dichotomique` : cherche plus vite mais la liste doit être triée.  
